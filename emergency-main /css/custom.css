@@ -58,11 +58,11 @@
   --form-submit-color-inverted: #bbc3ca;
 
   /* Background colors */
-  --logotype-background-color: #a9aaae;
-  --header-background-color: #cfd5e5;
-  --article-background-color: #dbdde3;
+  --logotype-background-color: #000000;
+  --header-background-color: #6f90eb;
+  --article-background-color: #fffae2;
   --news-background-color: #dbdde3;
-  --news-background-color-inverted: #eeebe9;
+  --news-background-color-inverted: #dbe2f5;
   --info-background-color: #dbdde3;
   --headline-bg-color: #dbdde3;
   --headline-bg-color-alert: #dbdde3;
